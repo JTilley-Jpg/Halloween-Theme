@@ -12,7 +12,7 @@
       {
         "label": "Halloween Theme",
         "uiTheme": "vs-dark",
-        "path": "./theme.json"
+        "path": "./themes/Halloween_Theme_color_theme.json"
       }
     ]
   },
