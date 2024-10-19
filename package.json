@@ -1,0 +1,23 @@
+{
+  "name": "halloween-theme",
+  "displayName": "Halloween Theme",
+  "description": "A spooky Halloween theme for Visual Studio Code.",
+  "version": "0.0.1",
+  "publisher": "Jared",
+  "engines": {
+    "vscode": "^1.30.0"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Halloween Theme",
+        "uiTheme": "vs-dark",
+        "path": "./theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JTilley-Jpg/Halloween-Theme.git"
+  }
+}
