@@ -3,7 +3,7 @@
   "displayName": "Halloween Theme",
   "description": "A spooky Halloween theme for Visual Studio Code.",
   "version": "0.0.1",
-  "publisher": "Jared",
+  "publisher": "Jtilley-Jpg",
   "engines": {
     "vscode": "^1.30.0"
   },
