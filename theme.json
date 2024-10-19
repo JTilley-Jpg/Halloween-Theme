@@ -1,13 +1,13 @@
 {
 	"name": "Halloween Theme",
 	"colors": {
-		"editor.background": "#0D0D0D", // Darker, spookier background
-		"editor.foreground": "#FF7518", // Halloween orange for the main text
-		"activityBarBadge.background": "#FF4500", // Bright orange for the activity bar
-		"sideBarTitle.foreground": "#CCCCCC", // Light gray for better contrast on the sidebar
-		"editor.lineHighlightBackground": "#292929", // Subtle highlight for line
-		"statusBar.background": "#1b1b1b", // Dark status bar for a consistent spooky look
-		"statusBar.foreground": "#FF7518" // Bright text on the status bar
+		"editor.background": "#0D0D0D", 
+		"editor.foreground": "#FF7518", 
+		"activityBarBadge.background": "#FF4500", 
+		"sideBarTitle.foreground": "#CCCCCC", 
+		"editor.lineHighlightBackground": "#292929", 
+		"statusBar.background": "#1b1b1b", 
+		"statusBar.foreground": "#FF7518" 
 	},
 	"tokenColors": [
 		{
@@ -18,7 +18,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#666666" // Dim gray for comments
+				"foreground": "#666666" 
 			}
 		},
 		{
@@ -28,7 +28,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#FFDD00" // Yellow for variables
+				"foreground": "#FFDD00" 
 			}
 		},
 		{
@@ -37,7 +37,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#FF7518" // Halloween orange for color constants
+				"foreground": "#FF7518" 
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#FF0000", // Red to show errors
+				"foreground": "#FF0000", 
 				"fontStyle": "bold"
 			}
 		},
@@ -59,7 +59,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA" // Purple for keywords
+				"foreground": "#C792EA" 
 			}
 		},
 		{
@@ -71,7 +71,7 @@
 				"punctuation.definition.tag"
 			],
 			"settings": {
-				"foreground": "#F78C6C" // Soft orange for operators and tags
+				"foreground": "#F78C6C" 
 			}
 		},
 		{
@@ -81,7 +81,7 @@
 				"meta.tag.sgml"
 			],
 			"settings": {
-				"foreground": "#FF4500" // Bright Halloween orange for tags
+				"foreground": "#FF4500" 
 			}
 		},
 		{
@@ -91,7 +91,7 @@
 				"meta.function-call"
 			],
 			"settings": {
-				"foreground": "#82AAFF" // Ghostly blue for functions
+				"foreground": "#82AAFF" 
 			}
 		},
 		{
@@ -100,7 +100,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#FF7518" // Highlight block-level variables in orange
+				"foreground": "#FF7518" 
 			}
 		},
 		{
@@ -121,7 +121,7 @@
 				"support.constant"
 			],
 			"settings": {
-				"foreground": "#F78C6C" // Subtle orange for numbers and constants
+				"foreground": "#F78C6C" 
 			}
 		},
 		{
@@ -131,7 +131,7 @@
 				"constant.other.symbol"
 			],
 			"settings": {
-				"foreground": "#C3E88D" // Greenish tint for strings
+				"foreground": "#C3E88D" 
 			}
 		},
 		{
@@ -141,7 +141,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#FFCB6B" // Pumpkin yellow for classes
+				"foreground": "#FFCB6B" 
 			}
 		},
 		{
@@ -150,7 +150,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#B2CCD6" // Pale blue for entity types
+				"foreground": "#B2CCD6" 
 			}
 		},
 		{
@@ -159,7 +159,7 @@
 				"source.css support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#B2CCD6" // Match with entity types
+				"foreground": "#B2CCD6" 
 			}
 		},
 		{
@@ -168,7 +168,7 @@
 				"entity.name.module.js"
 			],
 			"settings": {
-				"foreground": "#FF5370" // Red-pink for methods
+				"foreground": "#FF5370" 
 			}
 		},
 		{
@@ -188,7 +188,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#82AAFF" // Cool blue for JS methods
+				"foreground": "#82AAFF" 
 			}
 		},
 		{
@@ -197,7 +197,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#C792EA" // Purple for attributes
+				"foreground": "#C792EA" 
 			}
 		},
 		{
@@ -216,7 +216,7 @@
 				"string.regexp"
 			],
 			"settings": {
-				"foreground": "#89DDFF" // Bright blue for regex
+				"foreground": "#89DDFF" 
 			}
 		},
 		{
